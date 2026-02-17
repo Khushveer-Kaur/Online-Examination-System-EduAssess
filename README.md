@@ -1,7 +1,7 @@
 # Online-Examination-System-EduAssess
 
 EduAssess is a secure AI-assisted online examination platform designed to conduct fair remote assessments.  
-The system enables teachers to create exams, students to attempt them, and administrators to monitor and manage the platform — while preventing cheating using automated proctoring and rule enforcement.
+The system enables teachers to create exams, students to attempt them, and administrators to monitor and manage the platform (while preventing cheating using automated proctoring and rule enforcement).
 
 It supports real-time monitoring, automatic grading, attempt control, and structured database-driven evaluation.
 
@@ -18,51 +18,6 @@ EduAssess solves this by combining:
 - Centralized database evaluation
 
 The system provides a controlled and secure digital exam environment suitable for universities, coaching institutes, and training programs.
-
----
-
-## System Modules
-
-### 1. Student Module
-- Register and login
-- View available exams
-- Attempt exam within time limit
-- One answer per question restriction
-- Automatic submission
-- View results after evaluation
-
-### 2. Instructor Module
-- Create and schedule exams
-- Add questions and options
-- Define marks and passing criteria
-- Monitor exam attempts
-- View student performance
-
-### 3. Admin Module
-- Manage users
-- Control exam attempts
-- Access reports
-- Maintain database integrity
-
----
-
-## Anti-Cheating Mechanisms
-- Fullscreen enforcement
-- Tab switching detection
-- Multiple attempt restriction
-- Automated submission after timeout
-- Secure answer storage
-- Identity validation logic
-
----
-
-## Database Rules (Important Constraints)
-- Each question must have at least 4 options
-- Student can submit only one answer per question
-- Attempt limit cannot be exceeded
-- Marks calculated automatically
-- Total score computed from responses
-- Pass/Fail determined using passing marks
 
 ---
 
