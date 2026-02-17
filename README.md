@@ -65,6 +65,6 @@ GRANT UNLIMITED TABLESPACE TO C##exam_admin;
 COMMIT;
 ```
 
-##Running the APP
-1.Run main.py (runs the backend)
-2.Run login.html (runs the frontend)
+## Running the APP
+1. Run main.py (runs the backend)
+2. Run login.html (runs the frontend)
